@@ -4881,6 +4881,7 @@ input, select, textarea {
 			flex-shrink: 1;
 			width: 65%;
 			max-width: 64rem;
+			height: 20rem;
 			margin: 0 auto;
 		}
 
@@ -4893,8 +4894,9 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			width: 20%;
+			/* width: 20%; */
 			min-width: 20rem;
+			height: 20rem;
 			border-radius: 0;
 		}
 
